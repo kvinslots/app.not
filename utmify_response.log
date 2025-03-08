@@ -1,0 +1,12 @@
+HTTP Code: 400
+Response: {"OK":false,"data":{"products":"products must have at least 1 item"},"result":"ERROR","statusCode":400,"message":"SCHEMA_VALIDATION_FAILED"}
+HTTP Code: 200
+Response: {"OK":true,"data":{},"result":"SUCCESS"}
+HTTP Code: 200
+Response: {"OK":true,"data":{},"result":"SUCCESS"}
+HTTP Code: 200
+Response: {"OK":true,"data":{},"result":"SUCCESS"}
+HTTP Code: 200
+Response: {"OK":true,"data":{},"result":"SUCCESS"}
+HTTP Code: 200
+Response: {"OK":true,"data":{},"result":"SUCCESS"}
